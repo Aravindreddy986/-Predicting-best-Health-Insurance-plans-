@@ -1,0 +1,7 @@
+library(tcltk)
+library(sqldf)
+library(dplyr)
+library(xlsx)
+library(ggplot2)
+library(arules)
+library(rpart)
